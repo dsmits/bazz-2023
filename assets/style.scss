@@ -15,11 +15,18 @@
   background-color: var(--contrast);
 }
 
+
 html {
-  background-color: var(--bazzBrown);
   color: var(--dark);
+  background-color: var(--bazzBrown);
 }
 
+.footer{
+  background-color: var(--big-text);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
 .title {
   color: var(--big-text)
 }
